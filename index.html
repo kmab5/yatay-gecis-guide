@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>yatay geçiş field guide</title>
+  <meta name="description" content="Field guides to yatay geçiş (horizontal transfer) for YTB scholarship students in Türkiye." />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=Public+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <div class="progress" id="progress" aria-hidden="true"></div>
+
+  <header class="topbar">
+    <div style="display:flex;align-items:center;gap:8px;min-width:0;">
+      <button class="icon-btn menu-btn" id="menuBtn" aria-label="Open guide list" aria-expanded="false">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+      </button>
+      <a class="brand" href="#/">
+        <span class="brand-mark">YTB</span>
+        <span class="brand-name">yatay geçiş <em>field guide</em></span>
+      </a>
+    </div>
+    <div class="topbar-actions">
+      <button class="icon-btn" id="themeBtn" aria-label="Toggle dark mode">
+        <svg class="theme-icon-light" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+        <svg class="theme-icon-dark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <div class="layout">
+    <aside class="sidebar" id="sidebar" aria-label="Guides">
+      <div class="sidebar-head">
+        <div class="sidebar-label">Guides</div>
+        <div class="search">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+          <input id="search" type="search" placeholder="Search guides…" aria-label="Search guides" autocomplete="off" />
+        </div>
+      </div>
+      <nav class="guide-list" id="guideList"></nav>
+      <div class="sidebar-foot">
+        Made by scholars, for scholars. ·
+        <a id="repoLink" href="#" target="_blank" rel="noopener">source</a>
+      </div>
+    </aside>
+
+    <main class="reader" id="reader" data-version="informal">
+      <div class="reader-head">
+        <div class="kicker" id="kicker">Field guide · YTB scholarship</div>
+        <div class="doc-controls">
+          <div class="toggle" id="toggle" role="group" aria-label="Guide version">
+            <span class="toggle-thumb" aria-hidden="true"></span>
+            <button id="btnInformal" data-version="informal" aria-pressed="true">Informal</button>
+            <button id="btnFormal" data-version="formal" aria-pressed="false">Formal</button>
+          </div>
+          <div class="doc-meta">
+            <span class="stamp" id="stamp">draft</span>
+            <span class="updated" id="updated"></span>
+          </div>
+        </div>
+        <div class="wip-banner" id="wipBanner" hidden>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M12 9v4M12 17h.01"/><path d="M10.3 3.9 1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0z"/></svg>
+          <span>This guide is still being written — the author is going through the transfer as they write, so expect updates.</span>
+        </div>
+      </div>
+
+      <article class="prose" id="article" aria-live="polite"></article>
+    </main>
+
+    <aside class="toc" id="toc" aria-label="On this page">
+      <div class="toc-label">On this page</div>
+      <ul class="toc-list" id="tocList"></ul>
+    </aside>
+  </div>
+
+  <div class="scrim" id="scrim" aria-hidden="true"></div>
+
+  <script src="assets/js/marked.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>
