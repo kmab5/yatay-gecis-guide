@@ -4,7 +4,7 @@
 
 /* Set this to your repository URL to show a "source" link in the sidebar.
    Leave "" to hide it. e.g. "https://github.com/you/yatay-gecis-guide" */
-const REPO_URL = "";
+const REPO_URL = "https://github.com/kmab5/yatay-gecis-guide";
 
 const VERSIONS = ["informal", "formal"];
 const STAMP = { informal: "draft", formal: "reviewed" };
