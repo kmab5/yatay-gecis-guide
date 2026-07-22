@@ -61,62 +61,68 @@ the process for each uni is always different, what they accept, what they want, 
 
 but there are some common requirements:
 
-1. **ösys results**  
-    sooo, i think i ranted about this exam a bit already but i say it again, they will more likely than not as you about this bloddy exam. as international students, we CANT take this exam. its literally impossible. so stop ripping ur hair out about this as soon as possible.  
+1. **ösys results**
 
+sooo, i think i ranted about this exam a bit already but i say it again, they will more likely than not as you about this bloddy exam. as international students, we CANT take this exam. its literally impossible. so stop ripping ur hair out about this as soon as possible.  
 
-    "well u told me the problem, whats the solution?" the purpose of the ösys is for placement/uni entrance in türkiye. so a sufficient replacement for the ösys would be the exam that got u the scholarship in the first place. i'll list some of the common ones:  
+"well u told me the problem, whats the solution?" the purpose of the ösys is for placement/uni entrance in türkiye. so a sufficient replacement for the ösys would be the exam that got u the scholarship in the first place. i'll list some of the common ones:  
 
-    - **SAT**: broadly well received. u can usually use this as the "results" replacement for ösys
-    - **ACT**: its stands for American college test sooo yeah not very broadly accepted but better than nothing.
-    - **ur national exam** (if u have it): the national high school exit exam u took in ur own country. usually a good choice as it is a _national exam_. however most countries aren't recognized by most unis here (and no wonder, there are over 180 countries, u cant expect each uni to keep track of each of them)
-    - **ur high school transcript**: not a bad choice as well  
+- **SAT**: broadly well received. u can usually use this as the "results" replacement for ösys
+- **ACT**: its stands for American college test sooo yeah not very broadly accepted but better than nothing.
+- **ur national exam** (if u have it): the national high school exit exam u took in ur own country. usually a good choice as it is a _national exam_. however most countries aren't recognized by most unis here (and no wonder, there are over 180 countries, u cant expect each uni to keep track of each of them)
+- **ur high school transcript**: not a bad choice as well  
 
+these are a few example documents u can upload in place of the ösys. however, i strongly recommend u double check with the uni first before submitting anything.  
 
-    these are a few example documents u can upload in place of the ösys. however, i strongly recommend u double check with the uni first before submitting anything.  
+we have done a bit to solve the problem but it still doesn't solve the greater problem the uni had: how can they quantitatively compare u to the other turk students when their exam metrics and urs differ? so i have found that the _common_ answer to this is by using the base entrance score for ur field in ur entry year.  
 
+". . . whaaaaat?" i hear you say? well, the ösys is the entrance exam right? well every year, they document the smallest result that was placed into each field and they store this data as "[ur field]'in taban puanı". considering that u _dont_ have the ösys exam, the uni by default takes the base score for ur field when calculating ur merit. what does this have to do with u? well some unis require u to upload the official base score for ur field for the year u entered uni as they dont want to go through the trouble of finding it themself. where can u find it? at [yokatlas.yok.gov.tr](https://yokatlas.yok.gov.tr). so as i said, this is the solution taken by only _some_ unis so its always better to confirm from their directives or from the uni themselves either by calling or emailing them.
 
-    we have done a bit to solve the problem but it still doesn't solve the greater problem the uni had: how can they quantitatively compare u to the other turk students when their exam metrics and urs differ? so i have found that the _common_ answer to this is by using the base entrance score for ur field in ur entry year.  
+PS. i will list all resources at the bottom so u can find all of them there
 
+2. **ösys placement document**
 
-    ". . . whaaaaat?" i hear you say? well, the ösys is the entrance exam right? well every year, they document the smallest result that was placed into each field and they store this data as "[ur field]'in taban puanı". considering that u _dont_ have the ösys exam, the uni by default takes the base score for ur field when calculating ur merit. what does this have to do with u? well some unis require u to upload the official base score for ur field for the year u entered uni as they dont want to go through the trouble of finding it themself. where can u find it? at [yokatlas.yok.gov.tr](https://yokatlas.yok.gov.tr). so as i said, this is the solution taken by only _some_ unis so its always better to confirm from their directives or from the uni themselves either by calling or emailing them.
+:::warning not really certain info
+not really confirmed whether my info here is accurate or not so take with a pinch of salt
+:::
 
-    PS. side note, i will list all resources at the bottom so u can find all of them there
+"ugh, again with the ösys" fret not, this one is just an extension of the previous one. the university placement document for us (ytb students) would be our acceptance letter and our bursluluk belgesi as it contains the place we were assigned. i have yet to find a better alternative for this but if u feel like u found a better document to replace this, feel free to use that one.
 
-2. **ösys placement document** 
-    :::warning not really certain info
-    not really confirmed whether my info here is accurate or not so take with a pinch of salt
-    :::
+3. **transcript**
 
-    "ugh, again with the ösys" fret not, this one is just an extension of the previous one. the university placement document for us (ytb students) would be our acceptance letter and our bursluluk belgesi as it contains the place we were assigned. i have yet to find a better alternative for this but if u feel like u found a better document to replace this, feel free to use that one.
+pretty obvious requirement. something to keep in mind here, the unis require the transcript to be verified and the only two ways they accept it is first, and easiest in my opinion, is to take it directly from ur e-devlet. if it hasn't updated to include all ur scores so far talk to ur uni's student affairs office (öğrenci işleri). second is to get a signed and stamped printout of ur transcript from ur uni. pick whichever but i suggest the edevlet version. make sure that the date u took the transcript is not later than two weeks before ur transfer application.
 
-3. **transcript**  
-    pretty obvious requirement. something to keep in mind here, the unis require the transcript to be verified and the only two ways they accept it is first, and easiest in my opinion, is to take it directly from ur e-devlet. if it hasn't updated to include all ur scores so far talk to ur uni's student affairs office (öğrenci işleri). second is to get a signed and stamped printout of ur transcript from ur uni. pick whichever but i suggest the edevlet version. make sure that the date u took the transcript is not later than two weeks before ur transfer application.
+4. **öğrenci belgesi (student document)**
 
-4. **öğrenci belgesi (student document)**  
-    same as the transcript, either take the edevlet one or a signed and stamped printout version from ur uni.
+same as the transcript, either take the edevlet one or a signed and stamped printout version from ur uni.
 
-5. **discipline document (disiplin belgesi)**  
-    _usually_ u can get this document directly from ur student portal of ur uni. however (and this was the case for me) there might be some issues that prevent u from doing so. so in this case, go to ur student affairs office and specifically as for a disiplin belgesi for yatay geçiş application. for me, they basically gave me an öğrenci belgesi with a little note at the bottom that says "this student hasn't been naughty and hasn't paid any punishment fees so far."
+5. **discipline document (disiplin belgesi)**
 
-6. **kimlik**  
-    scan and upload
+_usually_ u can get this document directly from ur student portal of ur uni. however (and this was the case for me) there might be some issues that prevent u from doing so. so in this case, go to ur student affairs office and specifically as for a disiplin belgesi for yatay geçiş application. for me, they basically gave me an öğrenci belgesi with a little note at the bottom that says "this student hasn't been naughty and hasn't paid any punishment fees so far."
 
-7. **passport**  
-    scan and upload
+6. **kimlik**
 
-8. **course curriculum**  
-    labelled as ders içerikleri or ders mevduat, this is the official list of courses that u are taking in ur current program. along with this list is a detailed breakdown of the _content_ of each course. unis need these documents to compare the courses they offer with the ones u already took and are supposed to take. usually these are public and u can find them online on ur uni's website. otherwise, u might have to contact ur student affairs office.
+scan and upload
 
-9.  (if ur transferring to an English course) **English proficiency document**  
-    i will dive deeper into this later but if u are applying to an English program, u must prove ur English proficiency. again, which exams they accept differs depending on the uni, however, generally, u must submit an exam result that is above what score they set that u have taken within the past two years. a few exams i have seen consistently be accepted are: TOEFL, PTE Academic. (surprisingly, most unis dont accept IELTS, duo and SAT as substitutions for an English proficiency). most, if not all, unis have their own exams that u could take to show u have the English necessary.  
+7. **passport**
 
-    PS. this applies if u are transferring to a Turkish program as well. u must show ur proficiency in the Turkish language but assuming u are a ytb scholar, then u already took a year of TÖMER with ur original uni so u should be good.  
+scan and upload
 
-10. high school equivalence (denklik)  
-    denklik is the document proving that the high school education u took is equivalent to the education given here in turkiye. this document is actually only necessary before u graduate, not immediately right now.  
+8. **course curriculum**
 
-    while not a necessity, it is always good to have completed this document as early as possible. you can find all the processes for completing it [here at this link](https://edenklik.meb.gov.tr/).
+labelled as ders içerikleri or ders mevduat, this is the official list of courses that u are taking in ur current program. along with this list is a detailed breakdown of the _content_ of each course. unis need these documents to compare the courses they offer with the ones u already took and are supposed to take. usually these are public and u can find them online on ur uni's website. otherwise, u might have to contact ur student affairs office.
+
+9.  (if ur transferring to an English course) **English proficiency document**
+
+i will dive deeper into this later but if u are applying to an English program, u must prove ur English proficiency. again, which exams they accept differs depending on the uni, however, generally, u must submit an exam result that is above what score they set that u have taken within the past two years. a few exams i have seen consistently be accepted are: TOEFL, PTE Academic. (surprisingly, most unis dont accept IELTS, duo and SAT as substitutions for an English proficiency). most, if not all, unis have their own exams that u could take to show u have the English necessary.  
+
+PS. this applies if u are transferring to a Turkish program as well. u must show ur proficiency in the Turkish language but assuming u are a ytb scholar, then u already took a year of TÖMER with ur original uni so u should be good.  
+
+10.  high school equivalence (denklik)
+
+denklik is the document proving that the high school education u took is equivalent to the education given here in turkiye. this document is actually only necessary before u graduate, not immediately right now.  
+
+while not a necessity, it is always good to have completed this document as early as possible. you can find all the processes for completing it [here at this link](https://edenklik.meb.gov.tr/).
 
 ---
 
@@ -158,10 +164,12 @@ however if the uni is willing to transfer ur turkish courses, u still have to pr
 
 something u should take as a thumb rule is that all of the exams have a 2 year validity period. this means if u took an exam more than 2 years before ur application, then its more likely than not going to be rejected. so what alternative do u have if u dont want to pay the 300 odd dollar payment for toefl? 
 
-u can take the english proficiency exam given by the uni's yabancı dilleri yüksek okulu (ydyo). without fail, ALL unis have this school. and they _probably_ have an english exam. so if u cant provide proof of ur english, u can take their own english. the issue with this is that the exams are taken in person and that they determine when they are held. so u will have to travel to another city and take the exam there physically. sometimes, two different unis ur applying to might schedule the exams on the same day so u'll have to choose to sacrifice one. however, if u pass this exam, ur english wont be in question. make sure to find out when the exam for _yatay geçiş students is specifically_. usually, unis have two separate english exams: for fresh new coming students (usually around September) and one for yatay geçiş students (usually during August or early September). so dont mix those two and make sure that u can go there and take the exam on time.
+u can take the english proficiency exam given by the uni's yabancı dilleri yüksek okulu (ydyo). without fail, ALL unis have this school. and they _probably_ have an english exam. so if u cant provide proof of ur english, u can take their own english. the issue with this is that the exams are taken in person and that they determine when they are held. so u will have to travel to another city and take the exam there physically.
 
-:::note note on timing  
-unis usually dont know when exactly they will hold these exams early (as they are administered by different bodies in the same uni). often, u wont find the info about when these exams, or even transfer applications, will be held until a month or a few weeks before they actually hold them. therefore, its critical to stay up-to-date with the news on the uni's official page.  
+sometimes, two different unis ur applying to might schedule the exams on the same day so u'll have to choose to sacrifice one. however, if u pass this exam, ur english wont be in question. make sure to find out when the exam for _yatay geçiş students is specifically_. usually, unis have two separate english exams: for fresh new coming students (usually around September) and one for yatay geçiş students (usually during August or early September). so dont mix those two and make sure that u can go there and take the exam on time.
+
+:::note note on timing
+unis usually dont know when exactly they will hold these exams early (as they are administered by different bodies in the same uni). often, u wont find the info about when these exams, or even transfer applications, will be held until a month or a few weeks before they actually hold them. therefore, its critical to stay up-to-date with the news on the uni's official page.
 :::
 
 ## info collection
@@ -207,12 +215,14 @@ as soon as they accept u and they finish the credit transfer evaluation process,
 
 after that, there will probably be a lot more issues like transferring ur dormitories, changing ur address at goc idaresi, getting ur student card, adapting to a new uni, a new class, a new uni, a new city, etc. but in these matters there isnt much i can offer to help.
 
+---
+
 Best of luck on ur applications. may u reach the heights u envision. im rooting for u.
 
 ## resources
 
 - [link 1](link1)
 
-:::note
+:::info 💖
 made with love 🫶 [kmab](https://kmab5.github.io)
 :::
