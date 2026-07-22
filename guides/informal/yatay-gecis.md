@@ -217,7 +217,7 @@ after that, there will probably be a lot more issues like transferring ur dormit
 
 ---
 
-Best of luck on ur applications. may u reach the heights u envision. im rooting for u.
+Best of luck on ur applications. may u reach the heights u envision. im rooting for u. 🫡✊
 
 ## resources
 
