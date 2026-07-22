@@ -1,6 +1,6 @@
-# yatay geçiş field guide
+# kmab5 field guides
 
-A small, no-framework static site for publishing student guides about **yatay geçiş** (horizontal university transfer) for **YTB / Türkiye Bursları** scholarship students. It's built to run on **GitHub Pages** with zero build step.
+A small, no-framework static site for publishing student guides. It's built to run on **GitHub Pages** with zero build step.
 
 Every guide can exist in two registers:
 
@@ -35,23 +35,6 @@ A toggle in the reader switches between them, and the little status stamp flips 
 
 ---
 
-## Deploying to GitHub Pages
-
-1. Create a new GitHub repository and push these files to the `main` branch.
-2. In the repo, go to **Settings → Pages**.
-3. Under **Build and deployment → Source**, choose **GitHub Actions**.
-4. Push any commit (or run the *Build manifest & deploy to Pages* workflow manually from the **Actions** tab). The included workflow rebuilds `guides.json` and publishes the site.
-
-Your site will be served at `https://<username>.github.io/<repo>/`. All paths in the site are relative, so it works under that sub-path without changes.
-
-> Fonts (Newsreader, Public Sans, Space Mono) load from Google Fonts at runtime. The parser and all app code are vendored into the repo, so the site otherwise has no external dependencies.
-
-### Optional: link to your source
-
-Open `assets/js/app.js` and set `REPO_URL` near the top to your repository URL to show a "source" link in the sidebar. Leave it as `""` to hide the link.
-
----
-
 ## Adding a new guide
 
 1. Write the informal version as a Markdown file in `guides/informal/`, e.g. `guides/informal/burslu-staj.md`.
@@ -60,7 +43,7 @@ Open `assets/js/app.js` and set `REPO_URL` near the top to your repository URL t
 
 **The filename is the pairing key.** `informal/burslu-staj.md` and `formal/burslu-staj.md` are treated as two versions of the *same* guide. A guide can have just an informal version — the formal toggle then shows a friendly "coming soon" until you add the matching file.
 
-### Prefer to edit the manifest by hand?
+### Manually editing manifest
 
 You don't have to use the Action. `guides.json` is a plain file you can edit directly, or you can regenerate it locally:
 
@@ -159,6 +142,4 @@ python3 -m http.server 8000
 
 ---
 
-## Notes on the source guide
-
-The informal guide (`guides/informal/yatay-gecis.md`) is the author's original text with only two kinds of corrections applied — Turkish letters/diacritics (e.g. *gecis → geçiş*, *osys → ösys*) and three spelling slips (*kontejan → kontenjan*, *yongresi → yönergesi*, *isler → işleri*). The wording, lowercase style, and voice are otherwise untouched. The formal guide is a separate, revised rewrite.
+### made with love 🫶 [kmab](https://kmab5.github.io)
