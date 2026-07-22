@@ -1,8 +1,8 @@
 ---
-title: Guide to yatay geçiş as a ytb student
-description: A field guide to horizontal transfer for international scholarship students in türkiye.
+title: yatay geçiş as a ytb student
+description: field guide to horizontal transfer for international ytb students in türkiye.
 order: 1
-updated: 2026-07-21
+updated: 2026-07-22
 wip: true
 ---
 
@@ -34,13 +34,15 @@ so after all that preamble, what im trying to say is, make sure ur applying or g
 
 ## when should u start worrying about this?
 
-tl;dr: start worrying around mid to end of June. but preferably worry all years cuz ur gpa matters.
+tl;dr: start worrying around mid to end of June. but preferably worry all year cuz ur gpa matters. transfers are only for 2nd or 3rd years.
 
 before i go on, i need to make sure that u arent unduly worried. that is, if its actually even the time to worry about this. most american unis usually have application windows, be it transfer or fresh, during sept-dec or even up to april. That is NOT the case here. unis in türkiye ALWAYS open their transfer applications _after_ the academic year is complete (usually around the end of june, all of july and early august).
 
 so when should u start running around like a headless chicken? since the start of the year ofc. jk jk. but seriously, as a uni student, ur major stand out point is ur results, and they even specify that u _must_ pass all ur courses to be considered for transfer (more on that later). so yeah, ur results do matter a lot. so start worrying early.
 
 but the real work on the transfer will start after the end of the normal academic year, so around end of June and early July and the actual real work will be during the months of July and august.
+
+transfer applications are only open to 2nd and 3rd year students. so if u want to transfer, u must have finished at least 2 semesters and less than 6.
 
 ## what do i actually need?
 
@@ -82,7 +84,10 @@ scan and upload
 7. passport
 scan and upload
 
-8. (if ur transferring to an English course) English proficiency document
+8. course curriculum
+labelled as ders içerikleri or ders mevduat, this is the official list of courses that u are taking in ur current program. along with this list is a detailed breakdown of the _content_ of each course. unis need these documents to compare the courses they offer with the ones u already took and are supposed to take. usually these are public and u can find them online on ur uni's website. otherwise, u might have to contact ur student affairs office.
+
+9. (if ur transferring to an English course) English proficiency document
 i will dive deeper into this later but if u are applying to an English program, u must prove ur English proficiency. again, which exams they accept differs depending on the uni, however, generally, u must submit an exam result that is above what score they set that u have taken within the past two years. a few exams i have seen consistently be accepted are: TOEFL, PTE Academic. (surprisingly, most unis dont accept IELTS, duo and SAT as substitutions for an English proficiency). most, if not all, unis have their own exams that u could take to show u have the English necessary.
 
 PS. this applies if u are transferring to a Turkish program as well. u must show ur proficiency in the Turkish language but assuming u are a ytb scholar, then u already took a year of TÖMER with ur original uni so u should be good.
@@ -91,4 +96,48 @@ PS. this applies if u are transferring to a Turkish program as well. u must show
 
 and i think thats most of the common documents requested. some might ask for more and some might as for less, its always best to double check for each uni.
 
-##
+## what about my scholarship?
+
+tl;dr: ytb only cares about not extending ur stay here too much. if u transfer successfully without a loss of semester and the uni accepts u as a scholarship holder, theyre okay with it.
+
+the main issue we have, and the reason we are forced to stay where we are, is the scholarship. for one reason or another, ytb had seen fit to assign us our unis and at the beginning there isnt anything we can do to refute it. 
+
+however, there is sth that needs to be made clear. the scholarship and the universities are two completely separate bodies. one doesnt influence the other and vice versa. this means that as long as ytb KNOWS that they arent paying u too much (ur not staying too long), the bureaucratic details are solved (ur registration and records are sorted out), and ur studying the same major, they dont really care which uni u attend.
+
+my suggestion on what exactly to do: let ytb know that u are planning on transferring. reassure them that u are applying to the same program and that u dont plan on having any dropped semesters. once u let them know of ur intention, they are prepared for the bureaucracy that comes later on.
+
+## intibak? course equivalency
+
+tl;dr: ur courses must be similar and have more or equal credits (AKTS) for them to he transferred
+
+i briefly mentioned dropped semesters in the ytb part. what are they? so u learned an entire year of courses, at least 60 credits. where do they go? they get _transferred_. but why should the new uni accept that u have learned what they teach?
+
+thats where intibak comes into play. they compare each course u took with similar ones they offer and if they determine that u have sufficient education to pass the course _they_ give, ur credits get transferred. that means u wont have to take that course again when u start school at the new uni.
+
+and if they decide that it doesnt transfer? well u have to take the course again. as of right now, i am not sure whether this is a deal breaker for ytb (considering it as a semester loss). however it would save everyone trouble if all courses were transferred.
+
+a tricky thing here is _how_ u are accepted. i mentioned this already in the yatay geçiş definition section but unis still accept students and transfer the courses for them BUT as a _first-year student_. sure, u get to skip the courses they transferred but u still are a first year student and this isnt acceptable by ytb. so make sure u get accepted as a transfer student in ur 3rd/4th/5th/6th semester.
+
+## english proficiency
+
+tl;dr: if u have toefl that u took in the last 2 years, great, ur set. otherwise u'll have to take their own english exams.
+
+this section is only for those of u transferring into english programs. i have yet to prove this is possible yet, however i will write down all the info i have on this topic here.
+
+first i will warn u that some unis flat out deny students transferring from a turkish program to a non turkish program. some accept them but wont transfer the turkish courses u took (which is basically the same as rejecting u cuz u need those credits). so be wary of these unis and root them out as early as possible before they give u headaches.
+
+however if the uni is willing to transfer ur turkish courses, u still have to prove ur english. thats where english exams come in the picture. toefl and ote Academic are the commonly recurring exams that are widely accepted by most unis. ielts has a surprisingly low acceptance among turkish unis.
+
+something u should take as a thumb rule is that all of the exams have a 2 year validity period. this means if u took an exam more than 2 years before ur application, then its more likely than not going to be rejected. so what alternative do u have if u dont want to pay the 300 odd dollar payment for toefl? 
+
+u can take the english proficiency exam given by the uni's yabancı dilleri yüksek okulu (ydyo). without fail, ALL unis have this school. and they _probably_ have an english exam. so if u cant provide proof of ur english, u can take their own english. the issue with this is that the exams are taken in person and that they determine when they are held. so u will have to travel to another city and take the exam there physically. sometimes, two different unis ur applying to might schedule the exams on the same day so u'll have to choose to sacrifice one. however, if u pass this exam, ur english wont be in question. make sure to find out when the exam for _yatay geçiş students is specifically_. usually, unis have two separate english exams: for fresh new coming students (usually around September) and one for yatay geçiş students (usually during August or early September). so dont mix those two and make sure that u can go there and take the exam on time.
+
+PS. unis usually dont know when exactly they will hold these exams early (as they are administered by different bodies in the same uni). often, u wont find the info about when these exams, or even transfer applications, will be held until a month or a few weeks before they actually hold them. therefore, its critical to stay up-to-date with the news on the uni's official page.
+
+## 
+
+
+
+
+> made with love ❤️‍🔥🫶 [kmab](https://kmab5.github.io)
+
