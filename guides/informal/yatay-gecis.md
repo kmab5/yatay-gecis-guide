@@ -14,7 +14,7 @@ one thing to note, the chances of the transfer actually pulling off is very low.
 
 also, throughout the guide, i will have to use my own experience as an example so whenever u get into the process, keep in mind it might not be exactly the same for u (for example, im pretty sure the medicine students are weird and have weird transfer mechanics, but i didnt research that soooo . . . best of luck). annyyyways, into it.
 
-:::note language  
+:::tip language  
 as u may have noticed so far, i use language im comfortable with. if u want a more conventional english, or even translated versions of this page (powered by Google Translate ©), please go to the **formal version**.  
 :::
 
@@ -168,7 +168,7 @@ u can take the english proficiency exam given by the uni's yabancı dilleri yük
 
 sometimes, two different unis ur applying to might schedule the exams on the same day so u'll have to choose to sacrifice one. however, if u pass this exam, ur english wont be in question. make sure to find out when the exam for _yatay geçiş students is specifically_. usually, unis have two separate english exams: for fresh new coming students (usually around September) and one for yatay geçiş students (usually during August or early September). so dont mix those two and make sure that u can go there and take the exam on time.
 
-:::note note on timing
+:::important note on timing
 unis usually dont know when exactly they will hold these exams early (as they are administered by different bodies in the same uni). often, u wont find the info about when these exams, or even transfer applications, will be held until a month or a few weeks before they actually hold them. therefore, its critical to stay up-to-date with the news on the uni's official page.
 :::
 
@@ -205,7 +205,7 @@ after filling out endless forms and submitting boring documents, you get to the 
 
 ## after admission steps
 
-:::warn Danger zone  
+:::warning Danger zone  
 this part, i didnt reach yet so the info is entirely speculation. be ware.  
 :::
 
@@ -223,6 +223,6 @@ Best of luck on ur applications. may u reach the heights u envision. im rooting 
 
 - [link 1](link1)
 
-:::info 💖
+:::tip 💖
 made with love 🫶 [kmab](https://kmab5.github.io)
 :::
