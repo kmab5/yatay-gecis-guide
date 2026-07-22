@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T10:44:10.395Z",
+  "generatedAt": "2026-07-22T16:35:44.105Z",
   "defaultSlug": "yatay-gecis",
   "guides": [
     {
@@ -8,7 +8,7 @@
         "informal": {
           "path": "guides/informal/yatay-gecis.md",
           "wip": true,
-          "updated": "2026-07-21"
+          "updated": "2026-07-22"
         },
         "formal": {
           "path": "guides/formal/yatay-gecis.md",
@@ -16,8 +16,8 @@
           "updated": "2026-07-21"
         }
       },
-      "title": "Guide to yatay geçiş as a ytb student",
-      "description": "A field guide to horizontal transfer for international scholarship students in türkiye.",
+      "title": "yatay geçiş as a ytb student",
+      "description": "field guide to horizontal transfer for international ytb students in türkiye.",
       "order": 1
     }
   ]

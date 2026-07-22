@@ -275,7 +275,8 @@ async function renderCurrent() {
     article.innerHTML = `<div class="coming-soon"><strong>${state.version === "formal" ? "Formal" : "Informal"} version coming soon</strong>This guide hasn't been ${state.version === "formal" ? "revised into a formal version" : "drafted"} yet. Switch versions using the toggle above.</div>`;
     $("#tocList").innerHTML = "";
     state.lastVersion = state.version;
-    document.title = `${guide.title} · yatay geçiş field guide`;
+    document.title = `${guide.title} · kmab5 field guides`;
+    $("#kicker").innerHTML = "Field guide · " + escapeHtml(guide.title);
     return;
   }
 
@@ -292,7 +293,8 @@ async function renderCurrent() {
     article.innerHTML = html;
     state.headings = toc;
     renderToc(toc);
-    document.title = `${guide.title} · yatay geçiş field guide`;
+    document.title = `${guide.title} · kmab5 field guides`;
+    $("#kicker").innerHTML = "Field guide · " + escapeHtml(guide.title);
     window.scrollTo({ top: 0, behavior: "auto" });
     updateSpy();
   } catch (err) {
